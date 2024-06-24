@@ -1,4 +1,4 @@
 #nginx
 nginx
 #webdav镜像
-oznu/docker-webdav
+docker-webdav
