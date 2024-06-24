@@ -1,4 +1,4 @@
 #nginx
 nginx
 #webdav镜像
-bytemark/webdav
+oznu/docker-webdav
