@@ -8,3 +8,4 @@ hectorqin/reader
 ck98/webdav-nginx
 #私有镜像仓库
 library/registry:latest
+hyper/docker-registry-web:v0.1.2
